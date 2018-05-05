@@ -1,0 +1,10 @@
+{
+   ExpandedHierarchyInLayout: "",
+   guistr: "# # String gsaved with Nlview 6.8.5  2018-01-30 bk=1.4354 VDI=40 GEI=35 GUI=JA:1.6 non-TLS
+#  -string -flagsOSRD
+preplace inst AXI_FULL_RD_0 -pg 1 -lvl 2 -y -260 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 1 -y -440 -defaultsOSRD
+levelinfo -pg 1 -450 -240 150 420 -top -640 -bot 200
+",
+}
+

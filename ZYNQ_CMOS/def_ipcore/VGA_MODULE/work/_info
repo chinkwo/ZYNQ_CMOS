@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 df:/FPGA_SOC/AXI_HP/AXI_HP/def_ipcore/VGA_MODULE
+vvga
+!s110 1523954257
+!i10b 1
+!s100 iKFjhQ^OjQ7z?FdP[C?I=2
+IX1D[Q>2CYPSbI0NL_9fR01
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1523954255
+Z2 8f:\FPGA_SOC\AXI_HP\AXI_HP\def_ipcore\VGA_MODULE\vga_module.v
+Z3 Ff:\FPGA_SOC\AXI_HP\AXI_HP\def_ipcore\VGA_MODULE\vga_module.v
+L0 2
+Z4 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1523954257.000000
+!s107 f:\FPGA_SOC\AXI_HP\AXI_HP\def_ipcore\VGA_MODULE\vga_module.v|
+Z5 !s90 f:\FPGA_SOC\AXI_HP\AXI_HP\def_ipcore\VGA_MODULE\vga_module.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+vvga_module
+!s110 1523955148
+!i10b 1
+!s100 NJGKOgedzI]W1zE7CoQ6`0
+I>lM]a@:J96mmjhnehIWW?2
+R1
+R0
+w1523955146
+R2
+R3
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1523955148.000000
+!s107 f:\FPGA_SOC\AXI_HP\AXI_HP\def_ipcore\VGA_MODULE\vga_module.v|
+R5
+!i113 0
+R6
+R7
